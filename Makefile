@@ -1,2 +1,2 @@
 Tickets:
-	g++ flights.csv bookings.csv tickets.cpp -o tickets
+	g++ flights.csv bookings.csv Tickets.cpp -o tickets
