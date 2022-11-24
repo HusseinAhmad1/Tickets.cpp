@@ -74,15 +74,12 @@ getline(info, new_string, ',');
 New->economy_class = atol(new_string.c_str());
 	
 list->push_back(New); // puts in the information in the end of the vector
-
 	
 if (!info)
 break;
 }
 }
 }
-
-
 
 
 // reads in bookings.csv and save the information in a vector
