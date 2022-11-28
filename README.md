@@ -4,7 +4,7 @@ This program generates airline tickets.
 
 Compile the program by typing the following in the Terminal
 
-- Tickets:
+Tickets:
 - g++ Tickets.cpp -o tickets
-- run:
+run:
 - ./tickets flights.csv bookings.csv
